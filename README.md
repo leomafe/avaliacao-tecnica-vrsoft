@@ -4,7 +4,7 @@
 
 ### Nota sobre a Configuração do Ambiente
 
-Optei por usar um docker para rabbitmq ao invés da configuração sugerida no documeno
+Optei por usar um docker para rabbitmq ao invés da configuração sugerida no documento
 
 ---
 
